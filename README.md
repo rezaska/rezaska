@@ -1,4 +1,6 @@
-### Hi there 👋I'm Reza!
+### Hi there👋 I'm Reza!
+
+I'm a Front End Web Developer, a UX/UI Designer, a gamer and an art lover!
 
 
 <!--
