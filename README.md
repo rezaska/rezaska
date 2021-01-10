@@ -1,6 +1,6 @@
 ### Hi there👋 I'm Reza!<img src="https://media.tenor.com/images/316f182eb99062d7c07c64ff5bb84412/tenor.gif" width="35px">
 
-I'm a Front End Web Developer, a UX/UI Designer, a gamer and an art lover!
+I'm a Front End Web Developer, a UX/UI Designer and a gamer and!
 
 
 <!--
