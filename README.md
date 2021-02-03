@@ -3,7 +3,7 @@
 I'm a Front End Web Developer, a UX/UI Designer, lifelong learner and a gamer!
 
 [![Twitter: Alirezaska](https://img.shields.io/twitter/follow/Alirezaska?style=social)](https://twitter.com/Alirezaska)
-[![Linkedin: RezaSoleimani](https://img.shields.io/badge/-reza-soleimani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rsoleimani/)](https://www.linkedin.com/in/rsoleimani/)
+[![Linkedin: rezaSoleimani](https://img.shields.io/badge/-rezaSoleimani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rsoleimani/)](https://www.linkedin.com/in/rsoleimani/)
 
 ```javascript
 const reza = {
