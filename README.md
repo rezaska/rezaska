@@ -5,7 +5,7 @@ I'm a Front End Web Developer, a UX/UI Designer, lifelong learner and a gamer!
 ```javascript
 const reza = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, jQuery],
+  code: [JavaScript, jQuery, React, HTML, CSS, SCSS/SASS],
   tools: [React, Node],
   databases: ["mongoDB", "Firebase"],
   askMeAbout: ["web dev", "tech", "design things", "movies", "cars"],
