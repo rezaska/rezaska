@@ -2,7 +2,7 @@
 
 I'm a Front End Web Developer, a UX/UI Designer, lifelong learner and a gamer!
 
-[![Twitter: Alirezaska](https://img.shields.io/twitter/follow/Alirezaska?style=social)](
+![Twitter: Alirezaska](https://img.shields.io/twitter/follow/Alirezaska?style=social)
 
 ```javascript
 const reza = {
