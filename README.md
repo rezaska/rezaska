@@ -1,4 +1,4 @@
-### Hi there👋 I'm Reza!<img src="https://media.tenor.com/images/316f182eb99062d7c07c64ff5bb84412/tenor.gif" width="35px">
+### Hi there 👋 I'm Reza! <img src="https://media.tenor.com/images/316f182eb99062d7c07c64ff5bb84412/tenor.gif" width="35px">
 
 I'm a Front End Web Developer, a UX/UI Designer, lifelong learner and a gamer!
 
