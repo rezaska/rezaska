@@ -2,6 +2,8 @@
 
 I'm a Front End Web Developer, a UX/UI Designer, lifelong learner and a gamer!
 
+[![Twitter: Alirezaska]
+
 ```javascript
 const reza = {
   pronouns: "he" | "him",
