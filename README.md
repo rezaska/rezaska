@@ -5,9 +5,9 @@ I'm a Front End Web Developer, a UX/UI Designer, lifelong learner and a gamer!
 ```javascript
 const reza = {
   pronouns: "he" | "him",
-  code: [JavaScript, jQuery, React, HTML, CSS, SCSS/SASS],
-  tools: [React, Node],
+  code: [JavaScript, jQuery, React, Node.js, HTML, CSS, SCSS/SASS],
   databases: ["mongoDB", "Firebase"],
+  designTools: ["Figma", "Sketch", "Adobe XD", "InVision", "Illustrator"],
   askMeAbout: ["web dev", "tech", "design things", "movies", "cars"],
  favouriteQuote: "There are two ways to write error-free programs; only the third one works"
 };
