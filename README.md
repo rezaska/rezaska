@@ -11,7 +11,7 @@ const reza = {
   code: [JavaScript, jQuery, React, Node.js, HTML, CSS, SCSS/SASS],
   databases: ["mongoDB", "Firebase"],
   designTools: ["Figma", "Sketch", "Adobe XD", "InVision", "Illustrator"],
-  askMeAbout: ["web dev", "tech", "design things", "movies", "cars"],
+  askMeAbout: ["tech", "video games", "design things", "movies", "cars"],
  favouriteQuote: "There are two ways to write error-free programs; only the third one works"
 };
 ```
