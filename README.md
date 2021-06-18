@@ -12,7 +12,7 @@ const reza = {
   databases: ["mongoDB", "Firebase"],
   designTools: ["Figma", "Sketch", "Adobe XD", "InVision", "Illustrator"],
   askMeAbout: ["tech", "video games", "design things", "movies", "cars"],
- favouriteQuote: "There are two ways to write error-free programs; only the third one works"
+ favouriteQuote: "There are two ways to write error-free programs; only the third one works!"
 };
 ```
 
