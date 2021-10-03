@@ -8,7 +8,7 @@ I'm a Front End Web Developer, a UX/UI Designer, a gamer and a lifelong learner!
 ```javascript
 const reza = {
   pronouns: "he" | "him",
-  code: [JavaScript, jQuery, React, Node.js, HTML, CSS, SCSS/SASS],
+  code: [TypeScript, JavaScript, jQuery, React, Node.js, HTML, CSS, SCSS/SASS],
   databases: ["mongoDB", "Firebase"],
   designTools: ["Figma", "Sketch", "Adobe XD", "InVision", "Illustrator"],
   askMeAbout: ["tech", "video games", "design things", "movies", "cars"],
