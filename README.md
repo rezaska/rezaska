@@ -12,7 +12,7 @@ const reza = {
   databases: ["mongoDB", "Firebase"],
   designTools: ["Figma", "Material UI React Library", "Sketch", "Adobe XD", "InVision", "Illustrator"],
   askMeAbout: ["tech", "video games", "design things", "movies", "cars"],
- favouriteQuote: "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself."
+  favouriteQuote: "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself."
 };
 ```
 
