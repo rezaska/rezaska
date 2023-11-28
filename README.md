@@ -1,6 +1,6 @@
 ### Hi there 👋   I'm Reza!
 
-I'm a Front End Web Developer, UX/UI Designer, gamer and lifelong learner!
+I'm a Web Developer, UX/UI Designer, gamer and lifelong learner!
 
 [![Linkedin: Reza Soleimani](https://img.shields.io/badge/-rezaSoleimani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rsoleimani/)](https://www.linkedin.com/in/rsoleimani/)
 [![Twitter: Alirezaska](https://img.shields.io/twitter/follow/Alirezaska?style=social)](https://twitter.com/Alirezaska)
