@@ -7,11 +7,11 @@ I'm a Web Developer, UX/UI Designer, gamer and lifelong learner!
 
 ```javascript
 const reza = {
-  pronouns: "he" | "him",
-  code: [TypeScript, JavaScript, React, Liquid, PHP, Ruby on Rails, Node.js, HTML, CSS, SCSS/SASS],
-  databases: ["mongoDB", "Firebase"],
-  designTools: ["Figma", "Material UI React Library", "Sketch", "Adobe XD", "InVision", "Illustrator"],
-  askMeAbout: ["tech", "video games", "design things", "movies", "cars"],
+  pronouns: ["he", "him"],
+  code: ["TypeScript", "JavaScript", "React", "Liquid", "PHP", "Ruby on Rails", "Node.js", "HTML", "CSS", "SCSS/SASS"],
+  databases: ["MongoDB", "Firebase"],
+  designTools: ["Figma", "Material UI", "Sketch", "Adobe XD", "InVision", "Illustrator"],
+  askMeAbout: ["tech", "video games", "design", "movies", "cars"],
   favouriteQuote: "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself."
 };
 ```
